@@ -14,4 +14,4 @@ Also run sudo certbot --nginx after installation, this allow certbot to detect n
 Added an inbound rule to the security group on my instance on AWS by allowing HTTPS access through port 443 and setting the connection to everywhere
 searched my domain in my browser and ensured the padlock appeared in the address bar.
 I then replaced the index.html file in the /var/www/html with my the index.html file for my page
-This is my public IP 13.51.169.194 linked to my domain acevividtravels.com.ng
+This is my public IP 16.170.249.216 linked to my domain acevividtravels.com.ng
